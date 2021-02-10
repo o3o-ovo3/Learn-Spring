@@ -14,9 +14,8 @@
 
 <br/>
 
-<small>(소곤소곤) 아직은 열심히 듣는 중 ! 🏃‍♀️🏃‍♀️🏃‍♀️</small>
+<small>(소곤소곤) 아직은 열심히 듣는 중 ! 🏃‍🏃‍🏃‍</small>
 
 <hr>
 
 실습 프로젝트는 [여기](https://github.com/o3o-ovo3/hello-spring)에 👈💕
-
