@@ -7,11 +7,14 @@
 
 
 
-🌠 [인프런 - 스프링 입문](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8#) 강의를 들으며
+🌠 [인프런 - 스프링 입문](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8#) 강의를 듣고
+<br/>
+🌠 강의 내용 정리는 [🙌여기](https://github.com/o3o-ovo3/Learn-Spring/tree/main/Summary)
 <br/>
 🌠 실습 프로젝트 레포지토리는 [🙌여기](https://github.com/o3o-ovo3/hello-spring)
 <br/>
-🌠 실습은 intelliJ를 사용 👇
+<br/>
+✨ 실습을 할 때에는 intelliJ를 사용 👇
 <br/>
 
 #### 처음 접해본 intelliJ ! 설치하기💫
