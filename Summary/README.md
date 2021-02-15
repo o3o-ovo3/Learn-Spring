@@ -33,7 +33,17 @@
 - [회원 도메인과 리포지토리 만들기](9.CreateDomain&Repository.md)
 - [회원 리포지토리 테스트 케이스 작성](10.RepositoryTest.md)
 - [회원 서비스 개발](11.Service.md)
+- [회원 서비스 테스트](12.ServiceTest.md)
+
 <br/>
+
+<br/>
+
+#### 4. 스프링 빈과 의존 관계
+
+- [컴포넌트 스캔과 자동 의존관계 설정](13.ComponentScan.md)
+- [자바 코드로 직접 스프링 빈 등록하기](14.SpringBeanConfig.md)
+
 <small>(소곤소곤) 아직은 열심히 듣는 중 ! 🏃‍♀️🏃‍♀️🏃‍♀️</small>
 
 <hr>
