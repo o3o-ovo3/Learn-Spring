@@ -68,7 +68,22 @@
 - [JPA](22.JPA.md)
 - [스프링 데이터 JPA](23.SpringDataJPA.md)
 
-<small>(소곤소곤) 아직은 열심히 듣는 중 ! 🏃‍♀️🏃‍♀️🏃‍♀️</small>
+<br/>
+
+<br/>
+
+#### 7. AOP
+
+- [AOP가 필요한 상황](24.AOP.md)
+- [AOP 적용](25.AOPApplication.md)
+
+<br/>
+
+<br/>
+
+### 완강 !
+
+<img src='../resources/완강.JPG' width='400px'>
 
 <hr>
 
