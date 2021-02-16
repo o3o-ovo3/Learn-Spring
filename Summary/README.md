@@ -63,6 +63,11 @@
 - [H2 데이터베이스 설치](18.InstallH2.md)
 - [순수 JDBC](19.JDBC.md)
 
+- [스프링 통합 테스트](20.SpringTest.md)
+- [스프링 JdbcTemplate](21.JdbcTemplate.md)
+- [JPA](22.JPA.md)
+- [스프링 데이터 JPA](23.SpringDataJPA.md)
+
 <small>(소곤소곤) 아직은 열심히 듣는 중 ! 🏃‍♀️🏃‍♀️🏃‍♀️</small>
 
 <hr>
