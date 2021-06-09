@@ -8,7 +8,7 @@
 #### 1. 프로젝트 환경 설정
 
 
-- [프로젝트 생성](1.CreateProject.md)
+- [프로젝트 생성](./1.CreateProject.md)
 - [라이브러리 살펴보기](2.CheckLibraries.md)
 - [View 환경 설정](3.ViewSettings.md)
 - [빌드하고 실행하기](4.BuildAndRun.md)
