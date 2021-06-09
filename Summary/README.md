@@ -19,9 +19,9 @@
 
 #### 2. 스프링 웹 개발 기초
 
-- [정적 컨텐츠](4.StaticContents.md)
-- [MVC와 템플릿 엔진](6.MVCandTemplateEngine.md)
-- [API](7.API.md)
+- [정적 컨텐츠](05.StaticContents.md)
+- [MVC와 템플릿 엔진](06.MVCandTemplateEngine.md)
+- [API](07.API.md)
 
 <br/>
 
@@ -29,8 +29,8 @@
 
 #### 3. 회원 관리 예제 - 백엔드 개발
 
-- [비즈니스 요구사항 정리](8.BusinessRequirement.md)
-- [회원 도메인과 리포지토리 만들기](9.CreateDomain&Repository.md)
+- [비즈니스 요구사항 정리](08.BusinessRequirement.md)
+- [회원 도메인과 리포지토리 만들기](09.CreateDomain&Repository.md)
 - [회원 리포지토리 테스트 케이스 작성](10.RepositoryTest.md)
 - [회원 서비스 개발](11.Service.md)
 - [회원 서비스 테스트](12.ServiceTest.md)
